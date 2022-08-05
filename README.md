@@ -8,7 +8,7 @@
 ## 创建型模式
 | 设计模式                         | 推荐指数 |         状态         |
 |:-----------------------------|:----:|:------------------:|
-| [工厂方法模式（Factory Method）]()   | ★★★  | :white_check_mark: |
+| [工厂方法模式（Factory Method）](https://github.com/guowei-gong/golang-design-pattern/tree/main/01_facetory_method)   | ★★★  | :white_check_mark: |
 | [抽象工厂模式（Abstract Factory）]() | ★★★  |        :x:         |
 | [创建者模式（Builder）]()           | ★★★  |        :x:         |
 | [原型模式（Prototype）]()          | ★★☆  |        :x:         |
