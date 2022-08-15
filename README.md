@@ -11,7 +11,7 @@
 | [工厂方法模式（Factory Method）](https://github.com/guowei-gong/golang-design-pattern/tree/main/01_facetory_method)    | ★★★  | :white_check_mark: |
 | [抽象工厂模式（Abstract Factory）](https://github.com/guowei-gong/golang-design-pattern/tree/main/02_abstract_factory) | ★★★  | :white_check_mark: |
 | [生成器模式（Builder）](https://github.com/guowei-gong/golang-design-pattern/tree/main/03_builder)                    | ★★★  | :white_check_mark: |
-| [原型模式（Prototype）]()                                                                                            | ★★☆  |        :x:         |
+| [原型模式（Prototype）](https://github.com/guowei-gong/golang-design-pattern/tree/main/04_prototype)                  | ★★☆  | :white_check_mark: |
 | [单例模式（Singleton）]()                                                                                            | ★★☆  |        :x:         |
 
 
